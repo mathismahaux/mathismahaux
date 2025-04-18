@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on ComicFinder and DiningReview.
+
 I’m currently learning data analytics with Python.
 
 I'm currently looking for a job in development.
