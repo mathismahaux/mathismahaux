@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m currently learning data analytics with Python.
+I'm currently looking for a job in development.
+How to reach me: mathis@up-db.com or www.linkedin.com/in/mathis-mahaux-6ab565293.
+
 <!--
 **mathismahaux/mathismahaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
